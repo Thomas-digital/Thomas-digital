@@ -47,8 +47,8 @@ I architect and build scalable digital products—from luxury e-commerce platfor
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thomas-digital&show_icons=true&theme=gotham&hide_border=true" alt="Thomas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-digital&layout=compact&theme=gotham&hide_border=true" alt="Thomas's Top Languages" width="48%" />
+  <img src="https://github-readme-stats-blue-tau-58.vercel.app/api?username=Thomas-digital&show_icons=true&theme=gotham&hide_border=true" alt="Thomas's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-blue-tau-58.vercel.app/api/top-langs/?username=Thomas-digital&layout=compact&theme=gotham&hide_border=true" alt="Thomas's Top Languages" width="48%" />
 </p>
 
 ---
